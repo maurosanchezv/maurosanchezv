@@ -20,7 +20,7 @@ Utilizo un programa que me ayuda a lanzar los comandos de voz (Voice Attack) y p
 
 ### 📊 Mis Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=maurosanchezv&show_icons=true&theme=radical)
 
 ### 🌱 Actualmente estoy aprendiendo...
 
